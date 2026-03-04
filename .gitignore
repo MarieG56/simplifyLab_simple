@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# TypeScript version (excluded from this repo)
+typeScript_version/
+
+# README (excluded from this repo)
+README.md
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs and OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
